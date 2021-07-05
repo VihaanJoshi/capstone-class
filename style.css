@@ -1,0 +1,52 @@
+
+            h1{
+                color: red;
+                margin: 30px;
+            
+            }
+            .op{
+              
+              padding-left: 50px;
+            }
+            .menu{
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font: size 15px;;
+                display:flex ;
+                align-items:center;
+                justify-content: flex-end;
+                padding-right: 30px;
+            }
+            *{
+                color:mintcream;
+            }
+            .grid{
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+                align-items: center;
+                margin-block-end: 30px;
+                
+            }
+            .footer{
+                display: flex ;
+            justify-content:flex-end;
+            align-items:unset;
+
+            }
+            body{
+                background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png");
+            }
+            a:link{
+                color: #fff;
+            }
+            a:visited{
+                color: brown;
+            }
+            img{
+                width: 50;
+                height: 50;
+            }
+            .item{
+                text-align: center;
+               
+            }
